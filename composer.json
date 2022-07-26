@@ -1,6 +1,6 @@
 {
     "name": "free-id/contracts",
-    "description": "The core of the free-id package is designed to search for free identifiers in files, databases and much more...",
+    "description": "Contracts for free-id/core package",
     "keywords": [
         "free id",
         "contracts"
